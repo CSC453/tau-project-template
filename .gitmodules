@@ -1,0 +1,3 @@
+[submodule "rdgen"]
+	path = rdgen
+	url = git@github.com:proebsting/rdgen.git
